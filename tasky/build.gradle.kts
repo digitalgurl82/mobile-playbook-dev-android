@@ -13,3 +13,10 @@ buildscript {
         }
     }
 }
+
+
+
+
+
+
+suppressionFile = "suppression.xml"
